@@ -1,5 +1,5 @@
 <h1>👋 ¡Hola! Soy Sebastian Piero Perez Garcia</h1><hr>
-<h3>Ingeniero de Sistemas en formación con pasión por el desarrollo front-end y las bases de datos. Actualmente cursando mi quinto ciclo en la Universidad de Lima.</h3>
+<h3>Ingeniero de Sistemas en formación con pasión por el desarrollo front-end y las bases de datos. Actualmente estudiante en la Universidad de Lima.</h3>
 <hr>
 <h3>📫 Contacto</h3>
 <h3>Teléfono: +51 988724662</h3>
