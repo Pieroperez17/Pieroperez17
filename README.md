@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Sebastian Piero Perez Garcia  
-** 🧑‍💻 Ingeniero de Sistemas en formación con pasión por el desarrollo front-end, ciberseguridad, análisis de datos y tecnologías cloud (AWS).**  
+🧑‍💻 Ingeniero de Sistemas en formación con pasión por el desarrollo front-end, ciberseguridad, análisis de datos y tecnologías cloud (AWS)
 
 Actualmente estudiante en la Universidad de Lima e integrante activo de círculos de estudio:  
 - **Círculo de Inteligencia Artificial (CIA)**
