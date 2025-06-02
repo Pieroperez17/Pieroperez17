@@ -5,18 +5,6 @@ Actualmente estudiante en la Universidad de Lima e integrante activo de círculo
 - **Círculo de Inteligencia Artificial (CIA)**
 - **Círculo de Estudio y Analisis de Algoritmo (CEADA)**
 - **Círculo de Ciberseguridad**
-  
-## 💻 Áreas de Interés  
-- Desarrollo Front-end  
-- Bases de datos y almacenamiento en la nube (AWS)  
-- Ciberseguridad  
-- Análisis de datos
-  
-## 📫 Contacto  
-**Teléfono:** +51 988724662  
-
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sppcorreoinfo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piero-perez-a62091300/)
 
 ## 🛠️ Tecnologías/Lenguajes
 
@@ -39,4 +27,9 @@ Actualmente estudiante en la Universidad de Lima e integrante activo de círculo
 
 ### 📊 Base de Datos
 - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
-- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  
+## 📫 Contacto  
+**Teléfono:** +51 988724662  
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sppcorreoinfo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piero-perez-a62091300/)
